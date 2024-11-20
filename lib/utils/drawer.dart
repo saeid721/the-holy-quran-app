@@ -9,7 +9,7 @@ class DrawerUtils {
       'route': AppRoutes.surah,
     },
     {
-      'title': 'Juz Index',
+      'title': 'Para Index',
       'icon': Iconsax.note_1,
       'route': AppRoutes.juz,
     },

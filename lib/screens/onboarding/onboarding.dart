@@ -33,7 +33,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
     const _OnBoardingPage(
       image: StaticAssets.easyNav,
       text:
-          "Now with Surah & Juz Index you can find your required Surahs & Juzs easily.\n\nWith Bookmark option you can access your daily readings.\n",
+          "Now with Surah & Para Index you can find your required Surahs & Juzs easily.\n\nWith Bookmark option you can access your daily readings.\n",
     ),
     const _OnBoardingPage(
       image: StaticAssets.drawer3d,

@@ -70,14 +70,14 @@ class ShareInfo extends StatelessWidget {
             iconData: Iconsax.code,
             text: 'GitHub Repo',
             onPressed: () => launchUrl(
-                Uri.parse("https://github.com/saeid721/muslim_life")),
+                Uri.parse("https://github.com/saeid721/the-holy-quran-app")),
           ),
-          _ShareCustomButton(
-            iconData: Iconsax.message,
-            text: 'Rate & Feedback',
-            onPressed: () => launchUrl(Uri.parse(
-                "")),
-          ),
+          // _ShareCustomButton(
+          //   iconData: Iconsax.message,
+          //   text: 'Rate & Feedback',
+          //   onPressed: () => launchUrl(Uri.parse(
+          //       "")),
+          // ),
           SizedBox(height: height * 0.02),
           const AppVersion()
         ],
